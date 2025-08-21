@@ -3,6 +3,9 @@
 
 This is a "Coming Soon" page for DeltaVi, featuring a countdown timer and a visually engaging cosmic background. It informs users of the upcoming launch with a dynamic countdown.
 
+![Uploading Screenshot 2025-08-21 174236.png…]()
+
+
 ### Tech Stack:
 
 * HTML5
